@@ -168,6 +168,18 @@ K DC/DC Buck Conwerter 3A Low Voltage Input LED Lighting
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/71/e8/26/3c/c8/cc/46/e6/CD00292360/files/CD00292360.pdf/jcr:content/translations/en.CD00292360.pdf
 $ENDCMP
 #
+$CMP TLC59116IPWR
+D 16-Channel LED Driver With I2C Control, TSSOP package
+K I2C LED driver
+F http://www.ti.com/lit/ds/symlink/tlc59116.pdf
+$ENDCMP
+#
+$CMP TLC59116IRHBR
+D 16-Channel LED Driver With I2C Control, VQFN package
+K I2C LED driver
+F http://www.ti.com/lit/ds/symlink/tlc59116.pdf
+$ENDCMP
+#
 $CMP TLC5940NT
 D 16-Channel LED Driver With DOT Correction and Grayscale PWM Control, DIP package
 K PWM LED driver
